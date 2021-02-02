@@ -38,9 +38,3 @@ Run the command `npm run init` to set up a new or existing npm package. Then run
 3) Create a New App
 4) Choose Github as a Deployment Method
 5) Select the correct resume repository that you uploaded in Step 1
-
-## Credits
-
-##### Original Idea
-
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
