@@ -56,11 +56,18 @@
     ],
     "experience": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
+        "company": "Munchine",
+        "title": "Intership ",
+        "years": "December 2020 ",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      },
+      {
+        "company": "DGLmart",
+        "title": "Intership ",
+        "years": "December 2020 ",
         "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
       }
+
     ],
       "skills": [
       {
