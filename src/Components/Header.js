@@ -6,11 +6,11 @@ const Header = ({ data }) => {
     var name = data.name;
     var occupation = data.occupation;
     var description = data.description;
-    var city = data.address.city;
+    // var city = data.address.city;
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
-          <a href={network.url}>
+          <a href={network.url} target="_blank" rel="noreferrer">
             <i className={network.className}></i>
           </a>
         </li>
