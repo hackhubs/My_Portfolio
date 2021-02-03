@@ -40,9 +40,17 @@ const About = ({ data }) => {
                   {city} {state}, {zip}
                 </span>
                 <br />
-                <span>{phone}</span>
+                {/* <span>{phone}</span> */}
+                <a href="tel:+91 8988143226">{phone}</a>
                 <br />
-                <span>{email}</span>
+                {/* <span>{email}</span> */}
+                <a
+                  href="https://mail.google.com/mail/u/1/?ogbl#inbox?compose=new"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {email}
+                </a>
               </p>
             </div>
             <div className="columns download">

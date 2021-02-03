@@ -4,7 +4,7 @@
     "occupation": "Student at VIT Chennai",
     "description": "I eat, sleep and breathe React Native",
     "image": "abhav.png",
-    "bio": "Hi there! I am Abhav! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "bio": "Hi there! I am Abhav! You might also know me as hackhubs(Github). I've been coding for over 2 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
     "contactmessage": "Get in touch with me ",
     "email": "abhav.thakur25@gmail.com",
     "phone": "+91 8988143226",
@@ -12,7 +12,7 @@
       "street": "Tihar , District Mandi",
       "city": "Mandi",
       "state": "Himachal Pradesh",
-      "zip": "W3B D3V"
+      "zip": "175024"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "https://drive.google.com/file/d/155UHQ0CoEgxcUPo4MbnP6JV9y83o2ihx/view?usp=sharing",
@@ -71,8 +71,8 @@
     ],
       "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "React Native",
+        "level": "80%"
       },
       {
         "name": "Python",
@@ -96,7 +96,7 @@
     "projects": [
       {
         "title": "Sellify App (React Native)",
-        "category": "",
+        "category": "Mobile App development",
         "image": "snapchat.jpg",
         "url": "https://github.com/hackhubs/Selling_App"
       },
