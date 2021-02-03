@@ -97,19 +97,19 @@
       {
         "title": "Sellify App (React Native)",
         "category": "Mobile App development",
-        "image": "snapchat.jpg",
+       
         "url": "https://github.com/hackhubs/Selling_App"
       },
       {
         "title": "DareU_App  (React Native)",
         "category": "Mobile App development",
-        "image": "dare.jpeg",
+        
         "url": "https://github.com/hackhubs/DareU_App"
       },
       {
         "title": "ChatRoom  (React JS)",
         "category": "Web Development",
-        "image": "linkedin.jpg",
+        
         "url": "https://github.com/hackhubs/realtimechatroom.github.io"
       }
     ]
