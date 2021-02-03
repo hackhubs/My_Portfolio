@@ -4,7 +4,7 @@
     "occupation": "Student at VIT Chennai",
     "description": "I eat, sleep and breathe React Native",
     "image": "abhav.png",
-    "bio": "Hi there! I am Abhav! You might also know me as hackhubs(Github). I've been coding for over 2 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "bio": "Hi there! I am Abhav! You might also know me as hackhubs(Github). I've been coding for over 2 years now. An enthusiastic engineering fresher who is a self-starter and capable to use technical skills for the betterment of the organization. A B.Tech degree in Computer and Electronic Engineering has enhanced my proficiency in developing web applications and looking forward to work in a competitive environment that enhances overall learning.",
     "contactmessage": "Get in touch with me ",
     "email": "abhav.thakur25@gmail.com",
     "phone": "+91 8988143226",
@@ -58,14 +58,14 @@
       {
         "company": "Munchine",
         "title": "Intership ",
-        "years": "December 2020 ",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "years": "November 2020 ",
+        "description": "My work is to solve the debugs in the app and adding new features in it to improve user interface ."
       },
       {
         "company": "DGLmart",
         "title": "Intership ",
         "years": "December 2020 ",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "description": "My responsibilities are to make the UI of app and using API to connect to backend. Completing App bugs using React Native ."
       }
 
     ],
@@ -84,7 +84,7 @@
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "79%"
       },
       {
         "name": "Web Development",
@@ -101,16 +101,16 @@
         "url": "https://github.com/hackhubs/Selling_App"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
+        "title": "DareU_App  (React Native)",
+        "category": "Mobile App development",
         "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "url": "https://github.com/hackhubs/DareU_App"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
+        "title": "ChatRoom  (React JS)",
+        "category": "Web Development",
         "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "url": "https://github.com/hackhubs/realtimechatroom.github.io"
       }
     ]
   },
