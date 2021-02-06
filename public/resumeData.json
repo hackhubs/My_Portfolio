@@ -56,14 +56,14 @@
     ],
     "experience": [
       {
-        "company": "Munchine",
-        "title": "Intership ",
+        "company": "MunchIn",
+        "title": "Internship ",
         "years": "November 2020 ",
         "description": "My work is to solve the debugs in the app and adding new features in it to improve user interface ."
       },
       {
         "company": "DGLmart",
-        "title": "Intership ",
+        "title": "Internship ",
         "years": "December 2020 ",
         "description": "My responsibilities are to make the UI of app and using API to connect to backend. Completing App bugs using React Native ."
       }
